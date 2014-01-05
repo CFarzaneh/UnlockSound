@@ -5,7 +5,7 @@ THEOS_BUILD_DIR = Packages
 include theos/makefiles/common.mk
 
 TWEAK_NAME = UnlockSound
-UnlockSound_FILES = UnlockSound.x
+UnlockSound_FILES = UnlockSound.xm
 UnlockSound_FRAMEWORKS = UIKit AVFoundation
 
 include $(THEOS_MAKE_PATH)/tweak.mk
