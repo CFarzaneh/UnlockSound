@@ -1,0 +1,9 @@
+Package: com.sirifl0w.unlocksound
+Name: UnlockSound
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Brings back the unlock sound to iOS 7.
+Maintainer: Sirifl0w & Cameron Farzaneh <sirifl0w@gmail.com>
+Author: Sirifl0w & Cameron Farzaneh <sirifl0w@gmail.com>
+Section: Tweaks
